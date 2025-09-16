@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 13966, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: Week03_WeatherVisualization
+  m_EditorClassIdentifier: 
+  templateScene: {fileID: 102900000, guid: 51daa1a21e9e44ec78c17a57b15270ee, type: 3}
+  templateName: 
+  description: 
+  preview: {fileID: 0}
+  dependencies:
+  - dependency: {fileID: 7195865233840308944, guid: 16f13c2c8b17140e0bd3c6c10597b2ae, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 2100000, guid: f31aed954b14e48b38521077867147b6, type: 2}
+    instantiationMode: 0
+  - dependency: {fileID: 2100000, guid: 1d9c097409fd048aab61a09698c66395, type: 2}
+    instantiationMode: 0
+  - dependency: {fileID: 2100000, guid: ed58ca068aba345e883a01c06835db4f, type: 2}
+    instantiationMode: 0
+  - dependency: {fileID: 2100000, guid: 434e40bbbf87747f1a188adfa61203b8, type: 2}
+    instantiationMode: 0
+  - dependency: {fileID: 2520479964764823953, guid: 4dc13415a740b4fd3a1893fb713de2ba, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 8767729152677599990, guid: 152a0091084f844538f1ae451a73acb4, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 2800000, guid: 32b23d5d74f3aee4f9364e34e2f59379, type: 3}
+    instantiationMode: 1
+  - dependency: {fileID: 8504955110849265388, guid: c08e3e976c0c14acf8fa196a719e0751, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 2100000, guid: 2e88d36393cf34d0c9cf6d2d0a05bcb4, type: 2}
+    instantiationMode: 0
+  - dependency: {fileID: 9168268605222317563, guid: 23e62f8b065b447de9d56b17ccd09bcf, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 11400000, guid: 10fc4df2da32a41aaa32d77bc913491c, type: 2}
+    instantiationMode: 0
+  - dependency: {fileID: 2100000, guid: 31321ba15b8f8eb4c954353edc038b1d, type: 2}
+    instantiationMode: 0
+  templatePipeline: {fileID: 0}
+  badge: {fileID: 0}
+  addToDefaults: 0
